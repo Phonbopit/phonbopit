@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img width="256" src="/github-unicorn.png" />
+    <img width="256" src="https://github.com/Phonbopit/phonbopit/blob/master/github-unicorn.png" />
   </p>
   <br>
   <p><strong>We're having a really bad day.</strong></p>
