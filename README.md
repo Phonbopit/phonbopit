@@ -8,10 +8,10 @@
   <p>The Unicorns have taken over. We're doing our best to get them under control and get GitHub back up and running.</p>
   
   <p>
-    <a href="https://devahoy.com">Visit my blog</a> — <a href="https://facebook.com/devahoy">Facebook Page</a> — <a href="https://youtube.com/c/DevahoyOfficial">Devahoy on Youtube</a>
+    <a href="https://devahoy.com?ref=github">Visit my blog</a> — <a href="https://facebook.com/devahoy">Facebook Page</a> — <a href="https://youtube.com/c/DevahoyOfficial">Devahoy on Youtube</a>
   </p>
 </div>
 
 ---
 
-<img width="48" src="https://github.githubassets.com/images/mona-whisper.gif" />
+<a href="https://github.com/503.html"><img width="48" src="https://github.githubassets.com/images/mona-whisper.gif" /></a>
