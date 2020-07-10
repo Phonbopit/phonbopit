@@ -14,4 +14,4 @@
 
 ---
 
-![Mona Whisper](https://github.githubassets.com/images/mona-whisper.gif)
+<img width="48" src="https://github.githubassets.com/images/mona-whisper.gif" />
