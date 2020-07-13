@@ -12,5 +12,5 @@
 
 ---
 
-| <a href="https://github.com/500.html"><img width="48" src="https://github.githubassets.com/images/partyparrotfast.gif" /></a> | <a href="https://github.com/503.html"><img width="48" src="https://github.com/Phonbopit/phonbopit/blob/master/awyeah.gif" /></a> |
+| <a href="https://github.com/500.html"><img width="48" src="https://github.com/Phonbopit/phonbopit/blob/master/partyparrotfast.gif" /></a> | <a href="https://github.com/503.html"><img width="48" src="https://github.com/Phonbopit/phonbopit/blob/master/awyeah.gif" /></a> |
 | --- | --- |
