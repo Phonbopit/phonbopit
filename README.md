@@ -1,7 +1,5 @@
+<img width="100%" src="https://github.com/Phonbopit/phonbopit/blob/master/500.png" />
 <div align="center">
-  <p>
-    <img width="256" src="https://github.com/Phonbopit/phonbopit/blob/master/500.png" />
-  </p>
   <br>
   <p><strong>Looks like something went wrong!</strong></p>
   
