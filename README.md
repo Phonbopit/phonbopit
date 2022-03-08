@@ -1,16 +1,13 @@
-<img width="100%" src="https://github.com/Phonbopit/phonbopit/blob/master/500.png" />
-<div align="center">
-  <br>
-  <p><strong>Looks like something went wrong!</strong></p>
-  
-  <p>We track these errors automatically, but if the problem persists feel free to contact us. In the meantime, try refreshing.</p>
-  
-  <p>
-    <a href="https://devahoy.com?ref=github">Visit my blog</a> — <a href="https://facebook.com/devahoy">Facebook Page</a> — <a href="https://youtube.com/c/DevahoyOfficial">Devahoy on Youtube</a>
-  </p>
-</div>
+# Hi there 👋
 
----
+Chai Phonbopit
+> Frontend Dev, I am currently learning Rust and Solidity.
 
-| <a href="https://github.com/500.html"><img width="48" src="https://github.com/Phonbopit/phonbopit/blob/master/partyparrotfast.gif" /></a> | <a href="https://github.com/503.html"><img width="48" src="https://github.com/Phonbopit/phonbopit/blob/master/awyeah.gif" /></a> |
-| --- | --- |
+* [Devahoy](https://devahoy.com) : Thai blog - Web Devleopment tutorial
+* [0xChai.io](https://0xchai.io) : Personal blog, documenting my learning.
+
+<img width="48" src="https://github.com/Phonbopit/phonbopit/blob/master/awyeah.gif" />
+
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/phonbopit/)](https://github.com/phonbopit/) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/phonbopit/)](https://www.twitter.com/phonbopit)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://youtube.com/c/DevahoyOfficial)](https://youtube.com/c/DevahoyOfficial)
