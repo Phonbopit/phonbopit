@@ -3,7 +3,8 @@
 Chai Phonbopit
 > Frontend Dev, I am currently learning Rust and Solidity.
 
-* [Devahoy](https://devahoy.com) : Thai blog - Web Devleopment tutorial
+* [Devahoy](https://devahoy.com) : Thai blog (Next.js + MDX)
+* [Devahoy Blog](https://blog.devahoy.com) : Thai blog (Ghost) - Web Devleopment tutorial
 * [0xChai.io](https://0xchai.io) : Personal blog, documenting my learning.
 
 <img width="48" src="https://github.com/Phonbopit/phonbopit/blob/master/awyeah.gif" />
