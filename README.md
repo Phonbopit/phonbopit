@@ -5,6 +5,7 @@ Chai Phonbopit
 
 * [Devahoy](https://devahoy.com) : ~~Thai blog (Next.js + MDX)~~ -> Move to Ghost
 * [0xChai.io](https://0xchai.io) : Personal blog, documenting my learning.
+* [blog.devahoy](https://blog.devahoy.com) - archive of Next.js + MDX version.
 
 <img width="48" src="https://github.com/Phonbopit/phonbopit/blob/master/awyeah.gif" />
 
