@@ -5,7 +5,6 @@ Chai Phonbopit
 
 * [Devahoy](https://devahoy.com) : 🚧🚧🚧 WIP 🚧🚧🚧
 * [0xChai.com](https://0xchai.com) : Personal blog, documenting my learning.
-* [blog.devahoy](https://blog.devahoy.com) - archive of Next.js + MDX version.
 
 <img width="48" src="https://github.com/Phonbopit/phonbopit/blob/master/awyeah.gif" />
 
